@@ -5,6 +5,7 @@ description: 'This file covers the following topics:
   Transient state diffusion (error function solution, point source solution).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/f120cb8651c167c3e102bcc3c7086748_recitation2.pdf
 file_type: application/pdf
+parent_uid: e112e253-b057-792d-7b59-6b0e8e9b7231
 resourcetype: Document
 title: recitation2.pdf
 uid: f120cb86-51c1-67c3-e102-bcc3c7086748

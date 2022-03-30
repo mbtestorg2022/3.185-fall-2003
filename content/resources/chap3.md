@@ -6,6 +6,7 @@ description: 'This lecture talks about wrap up dimensional analysis, heat conduc
   differences, moving body, phase change, and radiation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/b16f7848c4359919f0c02da1ebaa58f2_chap3.pdf
 file_type: application/pdf
+parent_uid: 80c01035-3e65-3de9-5f51-2b3ec022b6b9
 resourcetype: Document
 title: chap3.pdf
 uid: b16f7848-c435-9919-f0c0-2da1ebaa58f2

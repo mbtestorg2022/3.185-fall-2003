@@ -7,6 +7,7 @@ description: 'This file includes the following:
   conditions, boundary conditions, layer growth, layer growth, and dimensional analysis.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-185-transport-phenomena-in-materials-engineering-fall-2003/a556573bb7fc3f3dd159f62cbd040359_chap2.pdf
 file_type: application/pdf
+parent_uid: 80c01035-3e65-3de9-5f51-2b3ec022b6b9
 resourcetype: Document
 title: chap2.pdf
 uid: a556573b-b7fc-3f3d-d159-f62cbd040359
